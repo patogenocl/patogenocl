@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 248.17 441.19">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-2" x="-96.51" y="96.51" width="441.19" height="248.17" rx="30.64" ry="30.64" transform="translate(-96.51 344.68) rotate(-90)"/>
+    </clipPath>
+  </defs>
+  <g id="Capa_1-2" data-name="Capa 1">
+    <g class="cls-1">
+      <image width="1080" height="1920" transform="translate(-2.38 -4.24) scale(.23)" xlink:href="../vlcsnap-2026-04-14-20h12m34s989.png"/>
+    </g>
+  </g>
+</svg>
